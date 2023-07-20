@@ -1,0 +1,5 @@
+Country,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,Confirmed last week,1 week change,1 week % increase,Region
+Philippines,82040,1945,26446,53649,1592,13,336,2.37,32.24,7.35,68898,13142,19.07,Western Pacific
+South Korea,14203,300,13007,896,28,1,102,2.11,91.58,2.31,13816,387,2.8,Western Pacific
+Singapore,50838,27,45692,5119,469,0,171,0.05,89.88,0.06,48035,2803,5.84,Western Pacific
+Japan,31142,998,21970,8174,594,0,364,3.2,70.55,4.54,25706,5436,21.15,Western Pacific

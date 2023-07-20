@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(241, 241, 241);
+    font-family: 'Raleway';
+  }
+
+.main-box {
+  display: flex;
+  margin: 1em;
+  padding: 1em;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  cursor: default;
+}
+
+.contents {
+  padding: 1em;
+  width: 1000px;
+  align-items: center;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.contents-chart {
+  margin: auto;
+  padding: 2em;
+  align-items: center;
+  width: 300em;
+  height: 80%;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.map-box {
+  display: flex;
+  margin: 1em;
+  padding: 1em 1em;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
+
+.map-contents {
+  padding: 1em;
+  width: 800px;
+  align-items: center;
+  text-align: justify;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: default;
+}
+
+.map-contents-title {
+  text-align: center;
+}
+
+.map-container {
+    height: 600px; /* Adjust the height as per your requirement */
+    width: 100%;
+}
+
+.map {
+  padding: 1em;
+  width: 800px;
+  align-items: center;
+  text-align: center;
+}
+
+.bar-box {
+  display: flex;
+  margin: 1em;
+  padding: 1em 1em;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
+
+.bar-contents {
+  padding: 1em;
+  width: 800px;
+  align-items: center;
+  text-align: justify;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: default;
+}
+
+.bar-contents-title {
+  text-align: center;
+}
+
+.bar-chart {
+  padding: 1em;
+  width: 800px;
+  align-items: center;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+svg {
+  height: inherit;
+}
